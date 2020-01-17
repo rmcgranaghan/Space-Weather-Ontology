@@ -7,6 +7,8 @@ This document holds action items that will grow the glossary and transform it in
     - [NASA Community Coordinated Modeling Center](https://ccmc.gsfc.nasa.gov/RoR_WWW/presentations/Glossary_of_Space_Weather_terms.pdf)
     
 2. Add new terms
+    - 'Crawl' space weather literature and glean terms from metadata - like abstracts, titles using e.g., [SciGraph](https://www.springernature.com/gp/researchers/scigraph)
+
 3. Leverage existing space physics (and Earth/geo science?) ontologies
     - [Virtual Solar Terrestrial Observatory Ontology](https://github.com/tetherless-world/vsto-ontology)
     - []()
