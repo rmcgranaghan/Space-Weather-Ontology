@@ -3,5 +3,9 @@ Space Weather Ontology holds resources that are living artifacts to build a spac
 
 
 #### Resources
-- [Glossary](https://github.com/rmcgranaghan/Space-Weather-Ontology/blob/master/Glossary)
+- [Glossary](https://github.com/rmcgranaghan/Space-Weather-Ontology/blob/master/glossary.md)
+- 
+
+#### Background information on ontologies
+- [The World Wide Web Consortium (W3C) introduction](https://www.w3.org/standards/semanticweb/ontology)
 - 
