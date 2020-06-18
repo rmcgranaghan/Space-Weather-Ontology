@@ -8,7 +8,8 @@ _This living document serves as a community and consensus-driven glossary of ter
 
 ### Index ###
 1. [Interplanetary Magnetic Field (IMF)](#Interplanetary-Magnetic-Field-IMF)
-2. 
+2. ...
+
 
 
 
